@@ -33,7 +33,7 @@ Voici les 10 challenges et les duels prévus pour chaque challenge :
 8. **Convertisseur de température** 🌡️  
    _Omar E._ vs. _Oumaima_
 
-9. **Barre de progression de saisie d'un formulaire** 📝 
+9. **Barre de progression de saisie d'un formulaire** 📝   
    _Karam_ vs. _Khouloud_
 
 10. **Liste To-do (ajout + marquer comme terminé)** ✅  
