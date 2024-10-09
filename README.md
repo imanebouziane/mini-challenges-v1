@@ -21,25 +21,25 @@ Voici les 10 challenges et les duels prévus pour chaque challenge :
 3. **Calcul de l'IMC (Indice de Masse Corporelle)** 🧍‍♂  
    _Nabil_ vs. _Nour_
 
-4. **Affichage de citations aléatoires** 📜 
+4. **Affichage de citations aléatoires** 📜   
    _Hamza_ vs. _Omar L._
 
-5. **Générateur de mot de passe** 🔐  
+6. **Générateur de mot de passe** 🔐  
    _Soukayna_ vs. _Mariam_
 
-6. **Chronomètre** ⏱️  
+7. **Chronomètre** ⏱️  
    _Mohammed_ vs. _Aymane_
 
-7. **Convertisseur de température** 🌡️  
+8. **Convertisseur de température** 🌡️  
    _Omar E._ vs. _Oumaima_
 
-8. **Barre de progression de saisie d'un formulaire** 📝 
+9. **Barre de progression de saisie d'un formulaire** 📝 
    _Karam_ vs. _Khouloud_
 
-9. **Liste To-do (ajout + marquer comme terminé)** ✅  
+10. **Liste To-do (ajout + marquer comme terminé)** ✅  
    _Jamila_ vs. _Fatin_
 
-10. **Système de notation d'étoiles** ⭐⭐⭐⭐⭐  
+11. **Système de notation d'étoiles** ⭐⭐⭐⭐⭐  
    _Yahya_ vs. _Basma_
 
 ## 🌟 Règles du Tournoi
