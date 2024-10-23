@@ -1,4 +1,4 @@
-# ⚡️ Mini-Challenges en HTML, CSS & JS
+ # ⚡️ Mini-Challenges en HTML, CSS & JS (V1)
 
 Bienvenue au **tournoi de mini-challenges** en **HTML**, **CSS**, et **JavaScript** ! 🎉 Ce projet met en compétition deux apprenants sur un même challenge. Après la confrontation, il n'y aura qu'un seul gagnant par challenge. 🏆
 
